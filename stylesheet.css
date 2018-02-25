@@ -1,0 +1,200 @@
+body {
+	font-family: sans-serif;
+	margin: 15px;
+	}
+
+a {
+	color: #4775a1;
+	}
+
+span {
+	color: #58c0db;
+	font-size: 24px;
+	}
+
+h3 {
+
+	color: #32659a;
+	}
+
+
+.header {
+	display: inline-block;
+	width: 970px;
+}
+.header img {
+	position: relative;
+	height: 60px;
+	width: 60px;
+	margin-top: 30px;
+	display: inline-block;
+	z-index: 2;
+	}
+
+.header h1 {
+	position: relative;
+	top: -20px;
+	color: #474747;
+	display: inline-block;
+	}
+
+#header2 {
+	position: absolute;
+	top: 70px;
+	left: 20px;
+	width: 970px;
+	height: 50px;
+	margin-top: 20px;
+	padding: 5px 0px 5px 20px;
+	background: linear-gradient(#4775a1, #5c83a9, #4775a1);
+	color: white;
+	z-index: 1;
+	}
+
+.content {
+	position: relative;
+	background: linear-gradient(#ececec, #fff);
+	width: 990px;
+	margin: 4px;
+}
+
+.homeButton {
+	position: relative;
+	left: 400px;
+	top: 17px;
+	width: 70px;
+	}
+
+#house {
+	width: 20px;
+	height: 20px;
+	}
+
+.contact {
+	position: relative;
+	left: 700px;
+	padding: 5px;
+	top: -25px;
+	width: 280px;
+	text-align: center;
+	}
+
+#phone {
+	position: relative;
+	width: 50px;
+	height: 50px;
+	top: -75px;
+	right: 110px;
+	}
+
+.body-left-top {
+	position: relative;
+	top: -150px;
+	width: 250px;
+	font-size: 16px;
+}
+
+#video {
+	background-color: #4677aa;
+	color: white;
+	height: 30px;
+	width: 250px;
+	border-radius: 10px;
+	box-shadow: 20px lightgrey;
+	}
+
+#resources {
+	background-color: #e1943d;
+	color: white;
+	height: 30px;
+	width: 250px;
+	border-radius: 10px;
+	box-shadow: 20px lightgrey;
+	}
+
+.banner-left {
+	position: absolute;
+	top: 300px;
+	left: 0;
+	width: 250px;
+	}
+#background {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	}
+#ninja {
+	position: relative;
+	top: 80px;
+	height: 180px;
+	left: 50px;
+	}
+#career {
+	position: absolute;
+	color: white;
+	width: 250;
+	text-align: center;
+	font-size: 20pt;
+	}
+#learn {
+	position: relative;
+	background-color: #55c2db;
+	width: 150;
+	top: 150px;
+	right: 50px;
+	height: 30px;
+	text-align: center;
+	}
+
+.main-body {
+	position: absolute;
+	top: 100px;
+	left: 270px;
+	width: 700px;
+	}
+
+#clientservice {
+	position: relative;
+	width: 50%;
+	height: 50%;
+	padding: 20px 0px 20px 150px;
+	}
+
+.footer {
+	border-top-style: solid;
+    border-right-style: solid; 
+    border-left-style: solid;
+    border-color: #2c58d9;
+	}
+#programming-fork {
+	position: absolute;
+	height: 113px;
+	width: 90px;
+	padding: 5px 0px 0px 3px;
+	}
+#header-footer {
+	padding-left: 100px;
+	width: 350px;
+	}
+.text-footer {
+	position: relative;
+	padding-left: 100px;
+	width: 550px;
+	}
+
+#blue {
+	color: #4775a1;
+}
+
+#contact-text {
+	font-size: 10px;
+	color: black;
+}
+
+#red {
+	color: red;
+	font-size: 16pt;
+}
+
+
